@@ -13,7 +13,7 @@ color:White; font-size: 20px}
 h1 {text-align-last: center; color: DarkGray; font-family: 'Montserrat Subrayada', sans-serif; font-size: 55px}
 
 div {display: flex; flex-flow: wrap;}
-span {color: white; text-align: center; display: block; padding-top: 3em;}
+span {color: white; text-align: center; display: block; padding-top: 3em; font-size: 12px;}
 
 ul {font-family:'IM Fell Double Pica', serif; font-size: 18px; text-align: center; color: white; 
 color: white; list-style-position: inside ; list-style-type: square; display: inline;}
